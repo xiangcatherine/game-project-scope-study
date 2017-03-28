@@ -26,5 +26,4 @@ Submit detailed answers to the following in this file via a pull request:
 
 You may want to submit pictures for your wireframes and/or user stories.
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-has instructions to link to a picture you've uploaded to a service like [Imgur]
-(http://imgur.com/).
+has instructions to link to a picture you've uploaded to a service like [Imgur](http://imgur.com/).
